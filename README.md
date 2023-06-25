@@ -1,1 +1,1 @@
-This is a simple **image search engine** made using the [Unsplash API](https://unsplash.com/developers)
+This is a simple **image search engine** powered by [Unsplash API](https://unsplash.com/developers)
